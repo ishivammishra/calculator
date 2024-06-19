@@ -1,2 +1,2 @@
-# ishivammishra.github.io
-Calculator
+# Calculator 
+a simple and modern calculator 
